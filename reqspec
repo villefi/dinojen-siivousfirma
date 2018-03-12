@@ -1,0 +1,21 @@
+Dino Cleaning Oy 
+
+Tarkoituksena on toteuttaa systeemi jolla työnantaja voi seurata työkohteiden valmistumista päivittäin.
+Järjestelmä toteutetaan aluksi porrassiivousyrityksen tarpeita varten, mutta on helppo muokata sopivaksi myös monille muille aloille.
+
+Pilottiyrityksessä on 35 kohdetta, joita siivoaa 6 työntekijää + yrittäjä itse. Kohteita siivotaan 1-5 kertaa viikossa. Yhtä kohdetta siivoaa yleensä yksi ja sama siivoaja, mutta lomien ym aikana muut.
+
+Työntekijät käyttävät järjestelmää älypuhelimilla, yrittäjä lisäksi tietokoneella.
+
+Työajan seuranta ei ole tarkoituksena ainakaan alkuun, riittää että yrittäjä näkee jokaisen kohteen valmistumisen.
+
+-	Listalta valitaan kohde, joka kuitataan valmiiksi 
+-	Kuittaukseen mahdollisuus lisätä huomautus: ’WC-paperi loppu’
+-	Kohteiden ohjeistus: ’kuivaushuoneet 1krt viikossa, saunat ti ja to’
+-	Kohteiden huomautukset yrittäjän toimesta: ’C-rapun 3-kerros, eritettä lattialla’
+-	Työntekijä kirjautuu sisään omalla tunnuksellaan
+-	Kohde paikannetaan / työntekijän sijainti tallennetaan
+-	Joka kohteelle määritellään tekijä
+-	Hälytykset tekemättömistä kohteista
+-	Sijaistamisen määrittely
+-	Päivä-, viikko- ja kuukausiraportit
